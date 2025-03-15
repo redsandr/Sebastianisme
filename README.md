@@ -15,3 +15,8 @@ https://gateway.pinata.cloud/ipfs/bafybeidj4tcozabjpfg6itqwymrtan6lf7dmgs3heaxxw
 Tidak bisa dihapus atau dimanipulasi oleh otoritas terpusat.
 Tetap tersedia meskipun situs atau server biasa mati.
 Akses benar-benar bebas tanpa sensor.
+
+Cara Kontribusi & Diskusi
+Sebastianisme adalah sistem pemikiran yang terus berkembang. Jika Anda ingin mendiskusikan atau berkontribusi, silakan buat Issue atau Pull Request.
+
+Sebastianisme Bukan Dogma, Tapi Ujian bagi Realitas Itu Sendiri.
