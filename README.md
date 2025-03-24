@@ -4,6 +4,9 @@ Sebastianisme bukan sekadar teori, melainkan framework berpikir yang mendobrak p
 Apa Itu Sebastianisme?
 Sebastianisme adalah pendekatan berbasis realitas objektif yang menolak dogma, bias sistemik, dan batasan konvensional dalam berpikir yang dituliskan dan ditemukan oleh rihhadatul aimi
 
+Kandungan didalam manifesto sebastianisme
+https://gateway.pinata.cloud/ipfs/bafybeibmc5ninjsm47wvrwecabbcclyu2xf34pmg7btqijfgpunl7fkjve
+
 📜 Akses Dokumen Manifesto:
 
 CID (IPFS): bafybeidj4tcozabjpfg6itqwymrtan6lf7dmgs3heaxxwmogw7ka6v3fji
