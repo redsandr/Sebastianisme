@@ -32,7 +32,7 @@ Beberapa kritik yang sering muncul terhadap framework ini meliputi:
 
 Untuk mendukung eksplorasi dan pengujian framework ini, tersedia beberapa dokumen tambahan:
 
-Manuskrip utama "Era Tanpa Batas" → (https://gold-adverse-porcupine-396.mypinata.cloud/ipfs/bafybeidvoyngeqj3ig6riyyz73w22fa6hoonebp6wiaqecevsxxifdb25i)
+Manuskrip pendukung sebastianisme "Era Tanpa Batas" → (https://gold-adverse-porcupine-396.mypinata.cloud/ipfs/bafybeidvoyngeqj3ig6riyyz73w22fa6hoonebp6wiaqecevsxxifdb25i)
 
 Manifesto Sebastianisme → (https://gateway.pinata.cloud/ipfs/bafybeidj4tcozabjpfg6itqwymrtan6lf7dmgs3heaxxwmogw7ka6v3fji)
 
