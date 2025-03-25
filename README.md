@@ -13,7 +13,10 @@ CID (IPFS): bafybeidj4tcozabjpfg6itqwymrtan6lf7dmgs3heaxxwmogw7ka6v3fji
 Akses di IPFS Gateway:
 https://gateway.pinata.cloud/ipfs/bafybeidj4tcozabjpfg6itqwymrtan6lf7dmgs3heaxxwmogw7ka6v3fji
 
-tulisan pendukung Manifesto Sebastianisme:
+Manuskrip Pendukung Sebastianisme "Era Tanpa Batas": 
+https://gold-adverse-porcupine-396.mypinata.cloud/ipfs/bafybeidvoyngeqj3ig6riyyz73w22fa6hoonebp6wiaqecevsxxifdb25i
+
+Artikel tentang di Medium Manifesto Sebastianisme:
 https://aimirihad.medium.com
 
 ⚠ Mengapa IPFS?
